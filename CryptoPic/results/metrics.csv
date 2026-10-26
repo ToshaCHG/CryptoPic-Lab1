@@ -1,0 +1,17 @@
+Image,Method,Entropy,Corr_H,Corr_V
+checkerboard.jpg,Original,3.9986,0.9555,0.9555
+checkerboard.jpg,XOR,7.9997,0.0005,0.0017
+checkerboard.jpg,AES-ECB,7.1856,-0.0886,0.7818
+checkerboard.jpg,AES-CBC,7.9997,0.0000,0.0014
+gradient.jpg,Original,7.9608,0.9999,1.0000
+gradient.jpg,XOR,7.9998,-0.0028,0.0016
+gradient.jpg,AES-ECB,7.9997,-0.0013,0.1880
+gradient.jpg,AES-CBC,7.9997,0.0010,0.0008
+noise_texture.png,Original,4.8060,0.9579,0.9582
+noise_texture.png,XOR,7.9998,0.0001,0.0025
+noise_texture.png,AES-ECB,7.9998,0.0036,0.0002
+noise_texture.png,AES-CBC,7.9998,0.0010,-0.0018
+yinyang.png,Original,5.5491,0.9711,0.9672
+yinyang.png,XOR,7.9990,-0.0027,0.0050
+yinyang.png,AES-ECB,7.4110,0.0214,0.3290
+yinyang.png,AES-CBC,7.9991,0.0009,0.0038

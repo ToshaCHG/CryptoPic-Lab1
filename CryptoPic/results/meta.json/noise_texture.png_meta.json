@@ -1,0 +1,4 @@
+{
+    "source_image": "noise_texture.png",
+    "cbc_iv": "MyInitializationVector"
+}
