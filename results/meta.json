@@ -1,0 +1,5 @@
+{
+    "source_image": "yinyang.png",
+    "algorithm": "AES-256",
+    "cbc_iv_hex": "b493cdc3f31e506b31ca9f37a69a428d"
+}
